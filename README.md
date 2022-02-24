@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to Hailey's GitHub page! 😁
 
 ## About me
-- 👩🏻‍🎓 I'm a MA Candidate at Columbia University | Program: Qunatitative Methods in the Social Sciences, Data Science Focus | May, 2022 | STEM Qualified
+- 👩🏻‍🎓 I'm a MA Candidate at Columbia University | Program: Qunatitative Methods in the Social Sciences, Data Science Focus | Graduating in May, 2022 | STEM Qualified
 - 📚 Courses: **Machine Learning Toolkit**: Machine Learning (Python)| Data Mining (R)| Applied Data Science (Python&PySpark) | Natual Language Processing (Python)
                **Statistical Modeling Toolkit**: Data Analysis in R | Advanced Data Analytics | Time Series Analysis
                **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)
