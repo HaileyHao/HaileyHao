@@ -8,7 +8,7 @@
   - **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)        
   - **Field Specialty**: GIS & Spatial Data Analysis | Social Network Analysis | Theory and Methods in the Social Sciences        
 
-- 📝 Resume: [linked here]()
+- 📝 Resume: [Qinyue(Hailey) Hao](https://github.com/HaileyHao/HaileyHao/blob/main/resume_Qinyue%20Hao%20(DS).pdf)
 - 📫 Contact me: [qh2231@columbia.edu](qh2231@columbia.edu)
               [LinkedIn](https://www.linkedin.com/in/qinyue-hailey-hao-883745174/)
 - 🔆 Pronouns: She/Her
