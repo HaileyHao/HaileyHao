@@ -2,10 +2,10 @@
 
 ## About me
 - 👩🏻‍🎓 I'm a MA Candidate at Columbia University | Program: Qunatitative Methods in the Social Sciences, Data Science Focus | Graduating in May, 2022 | STEM Qualified
-- 📚 Courses: **Machine Learning Toolkit**: Machine Learning (Python)| Data Mining (R)| Applied Data Science (Python&PySpark) | Natual Language Processing (Python)
-               **Statistical Modeling Toolkit**: Data Analysis in R | Advanced Data Analytics | Time Series Analysis
-               **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)
-               **Field Specialty**: GIS & Spatial Data Analysis | Social Network Analysis | Theory and Methods in the Social Sciences
+- 📚 Courses:  **Machine Learning Toolkit**: Machine Learning (Python)| Data Mining (R)| Applied Data Science (Python&PySpark) | Natual Language Processing (Python)        
+               **Statistical Modeling Toolkit**: Data Analysis in R | Advanced Data Analytics | Time Series Analysis        
+               **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)        
+               **Field Specialty**: GIS & Spatial Data Analysis | Social Network Analysis | Theory and Methods in the Social Sciences        
 
 - 📝 Resume: [linked here](https://github.com/connixu/connixu/blob/main/Resume.md)
 - 📫 Contact me: [qh2231@columbia.edu](qh2231@columbia.edu)
