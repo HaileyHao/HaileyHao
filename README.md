@@ -2,19 +2,20 @@
 
 ## About me
 - 👩🏻‍🎓 I'm a MA Candidate at Columbia University | Program: Qunatitative Methods in the Social Sciences, Data Science Focus | Graduating in May, 2022 | STEM Qualified
-- 📚 Courses:  **Machine Learning Toolkit**: Machine Learning (Python)| Data Mining (R)| Applied Data Science (Python&PySpark) | Natual Language Processing (Python)        
-               **Statistical Modeling Toolkit**: Data Analysis in R | Advanced Data Analytics | Time Series Analysis        
-               **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)        
-               **Field Specialty**: GIS & Spatial Data Analysis | Social Network Analysis | Theory and Methods in the Social Sciences        
+- 📚 Courses:  
+  - **Machine Learning Toolkit**: Machine Learning (Python)| Data Mining (R)| Applied Data Science (Python&PySpark) | Natual Language Processing (Python)        
+  - **Statistical Modeling Toolkit**: Data Analysis in R | Advanced Data Analytics | Time Series Analysis        
+  - **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)        
+  - **Field Specialty**: GIS & Spatial Data Analysis | Social Network Analysis | Theory and Methods in the Social Sciences        
 
 - 📝 Resume: [linked here](https://github.com/connixu/connixu/blob/main/Resume.md)
 - 📫 Contact me: [qh2231@columbia.edu](qh2231@columbia.edu)
               [LinkedIn](https://www.linkedin.com/in/qinyue-hailey-hao-883745174/)
 - 🔆 Pronouns: She/Her
 - 👩🏻‍💻 I’m currently working on:
-     - a master's thesis on intermedia agenda setting effects with NLP, linear regression models, network models and cross-lag models;
-     - an NLP project on pop music lyrics;
-     - a personal research on Chinese married women's social role preference with multiple multinomial logistic models
+     - A master's thesis on intermedia agenda setting effects with NLP, linear regression models, network models and cross-lag models;
+     - An NLP project on pop music lyrics, exploring the preference of songs for different cities;
+     - A personal research on Chinese married women's social role preference with multiple multinomial logistic models.
 
 ### Previous works
 - **[Measuring the Integration and Network Effect of the UN SDGs](https://github.com/HaileyHao/G5055_Practicum_Project2):**  A project where we developed whole network models of the UN Sustainable Development Goals based on the correlation between 100+ variables; Visualized networks, conducted social network analysis, and delivered presentations to UN officials about the trade-offs and secondary benefits of SDG-orientated policy enactment, as a reference for optimizing investment decisions towards the utmost joint effect.
