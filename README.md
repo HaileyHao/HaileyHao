@@ -8,7 +8,7 @@
   - **Data Manipulation and Visulizaiton**: Modern Data Structures (Python) | Data Visualization (R)        
   - **Field Specialty**: GIS & Spatial Data Analysis | Social Network Analysis | Theory and Methods in the Social Sciences        
 
-- 📝 Resume: [linked here](https://github.com/connixu/connixu/blob/main/Resume.md)
+- 📝 Resume: [linked here]()
 - 📫 Contact me: [qh2231@columbia.edu](qh2231@columbia.edu)
               [LinkedIn](https://www.linkedin.com/in/qinyue-hailey-hao-883745174/)
 - 🔆 Pronouns: She/Her
@@ -19,8 +19,8 @@
 
 ### Previous works
 - **[Measuring the Integration and Network Effect of the UN SDGs](https://github.com/HaileyHao/G5055_Practicum_Project2):**  A project where we developed whole network models of the UN Sustainable Development Goals based on the correlation between 100+ variables; Visualized networks, conducted social network analysis, and delivered presentations to UN officials about the trade-offs and secondary benefits of SDG-orientated policy enactment, as a reference for optimizing investment decisions towards the utmost joint effect.
-Check out our main deliverables here: [Presentation Desk(full version)](https://github.com/HaileyHao/G5055_Practicum_Project2/blob/main/G5055%20Project%202%20Deck%20.pdf)
-                                      [Blog on the UN official site](https://www.jointsdgfund.org/article/measuring-integration-and-network-effect-sdgs) 
+Check out our main deliverables here: - [Presentation Desk(full version)](https://github.com/HaileyHao/G5055_Practicum_Project2/blob/main/G5055%20Project%202%20Deck%20.pdf)
+                                      - [Blog on the UN official site](https://www.jointsdgfund.org/article/measuring-integration-and-network-effect-sdgs) 
 - **[FBIwanted API Wrapper](https://github.com/HaileyHao/FBIwanted)**: A FBIwanted API wrapper that allows retrieving datasets of FBI wanted people by appearance features or administrative regions, as well as downloading wanted posters to see the photos.
 - **[Visualizing Covid-19 Vaccine Side Effect Reports](https://github.com/HaileyHao/Group_L_VaccineSideeffect)**: A visualization in R of the side effect reports from a WHO database to understand the side effects of different Covid-19 vaccines. Conducted text analysis and sentiment analysis on relevant Tweets, and presented interactive maps.
 <!-- - **[Predicting Covid-19 Vaccine Side Effect Reports]()**:  -->
