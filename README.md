@@ -29,9 +29,6 @@ Check out our main deliverables here:
 - **[Visualizing Covid-19 Vaccine Side Effect Reports](https://github.com/HaileyHao/Group_L_VaccineSideeffect)**: A visualization in R of the side effect reports from a WHO database to understand the side effects of different Covid-19 vaccines. Conducted text analysis and sentiment analysis on relevant Tweets, and presented interactive maps.         
 <!-- - **[Predicting Covid-19 Vaccine Side Effect Reports]()**:  -->
 
-<!-- - **[An examination of married Chinese women’s social role preference!](link)**: A  -->
-
-
-A personal research on Chinese married women's social role preference with multiple multinomial logistic models.
+- **An examination of married Chinese women’s social role preference**: A personal research on Chinese married women's social role preference with multiple multinomial logistic models.
 
 Feel free to contact me if you wanna discuss my projects! Wishing you a great day! ⁽(◍˃̵͈̑ᴗ˂̵͈̑)⁽
