@@ -13,8 +13,9 @@
               [LinkedIn](https://www.linkedin.com/in/qinyue-hailey-hao-883745174/)
 - 🔆 Pronouns: She/Her
 - 👩🏻‍💻 I’m currently working on:
-     - A master's thesis on intermedia agenda setting effects with NLP, linear regression models, network models and fixed effects models;
-     - An NLP project on pop music lyrics, exploring the sentiment of songs of different genres.
+     - A master's thesis on intermedia agenda setting effects with NLP, Linear Regression models, Time Series Analysis;
+     - An NLP project on modern music lyrics, exploring the sentiment of songs of different genres;
+     - An Machine Learning/Deep Learning Project on predciting customer orders based on their previous purchases.
 
 ### Previous works
 - **[Measuring the Integration and Network Effect of the UN SDGs](https://github.com/HaileyHao/G5055_Practicum_Project2):**  A project where we developed whole network models of the UN Sustainable Development Goals based on the correlation between 100+ variables; Visualized networks, conducted social network analysis, and delivered presentations to UN officials about the trade-offs and secondary benefits of SDG-orientated policy enactment, as a reference for optimizing investment decisions towards the utmost joint effect.
