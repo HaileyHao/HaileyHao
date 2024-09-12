@@ -19,7 +19,7 @@
 
 - **[Predicting Covid Vaccine Side effects](https://github.com/HaileyHao/Predicting-Covid-Vax-Side-Effects)**: A machine learning project in R to predict whether the patient recovered from the self-reported Covid-19 Vaccine side effect. I fit and tuned 4 types supervised machine learning models (Penalized Logistic Regression Model, Multivariate Adaptive Regression Spline, Random Forest Model, Penalized Single layer Neural Network Model, as representatives of linear models, regression splines models, tree models and neural networks), and achieved 75% prediction accuracy with a random forest model (min_n = 23).
 
-- **[Intermedia agenda setting effects of mainstream media]** An study on the influence mainstreet media potentially has on social media attention and sentiment on Covid Vaccines. New York Times API and Twitter API were used to retrieve historical records of posts on both platform in the similar timeframe, and sentiment features developed with NLP, used for linear regression modeling.
+- **[Intermedia agenda setting effects of mainstream media](https://github.com/HaileyHao/Agenda-setting/blob/main/Intermedia%20agenda%20setting%20effects%20of%20mainstream%20media.pdf)** A study on the influence mainstreet media potentially has on social media attention and sentiment on Covid Vaccines. New York Times API and Twitter API were used to retrieve historical records of posts on both platform in the similar timeframe, and sentiment features developed with NLP, used for linear regression modeling.
 
 - - **An examination of married Chinese women’s social role preference**: A personal research on Chinese married women's social role preference with multiple multinomial logistic models.
 
